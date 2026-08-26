@@ -19,6 +19,7 @@ The empty `.nojekyll` file is intentional.
 - Participants: `participants.html`
 - Travel: `travel.html`
 - Venue: `venue.html`
+- Rigi activities and free-time options: `rigi.html`
 - Scientific glossary and methods overview: `concepts.html`
 - Prototype explorer: `explorer.html`
 - Administrative information: `administrative.html`
