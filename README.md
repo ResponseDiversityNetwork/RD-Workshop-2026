@@ -15,13 +15,11 @@ The empty `.nojekyll` file is intentional.
 ## Main files
 
 - Home: `index.html`
-- Preliminary agenda: `agenda.html`
+- Definitive agenda: `agenda.html`
 - Participants: `participants.html`
 - Travel: `travel.html`
 - Venue: `venue.html`
-- Rigi activities and free-time options: `rigi.html`
-- Scientific glossary and methods overview: `concepts.html`
-- Prototype explorer: `explorer.html`
+- Wednesday group-activity options: `rigi.html`
 - Administrative information: `administrative.html`
 - Styles: `assets/css/style.css`
 - Images: `assets/images/`
