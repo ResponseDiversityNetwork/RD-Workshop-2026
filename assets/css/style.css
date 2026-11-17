@@ -117,15 +117,9 @@ img { max-width: 100%; display: block; }
 .hero-logo-halo {
   position: absolute;
   z-index: 2;
-  top: 0;
+  top: -18px;
   right: max(28px, calc((100vw - var(--max)) / 2));
-  width: clamp(280px, 27vw, 340px);
-  padding: 14px 20px;
-  border: 1px solid rgba(255,255,255,.72);
-  border-radius: 999px;
-  background: rgba(247,247,242,.7);
-  box-shadow: 0 18px 46px rgba(8,20,13,.22);
-  backdrop-filter: blur(12px);
+  width: clamp(440px, 42vw, 540px);
 }
 .hero-logo-halo img { display: block; width: 100%; height: auto; }
 .eyebrow {
@@ -409,7 +403,7 @@ figcaption { color: var(--muted); font-size: .9rem; margin-top: 12px; }
   .nav-wrap { padding: 0 18px; }
   .brand { font-size: .92rem; }
   .hero { min-height: 720px; }
-  .hero-logo-halo { top: 26px; left: 50%; right: auto; width: min(76vw, 310px); padding: 16px 22px; transform: translateX(-50%); }
+  .hero-logo-halo { top: 18px; left: 50%; right: auto; width: min(96vw, 460px); transform: translateX(-50%); }
   .hero-inner { width: min(100% - 36px, var(--max)); padding: 230px 0 42px; }
   .hero h1 { font-size: clamp(3rem, 16vw, 4.8rem); }
   .section { padding: 62px 18px; }
